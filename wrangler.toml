@@ -6,7 +6,7 @@ compatibility_date = "2023-01-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "bing-wallpapers"
-database_id = "your-D1-ID"
+database_id = "729ab8a6-1f07-4808-b906-8401fe06a99b"
 
 # Cron Trigger for daily updates (runs every day at 8:00 UTC)
 [triggers]
