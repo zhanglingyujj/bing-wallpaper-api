@@ -1,4 +1,4 @@
-name = "bing-wallpaper"
+name = "bing-wallpaper-api"
 main = "src/index.js"
 compatibility_date = "2023-01-01"
 
