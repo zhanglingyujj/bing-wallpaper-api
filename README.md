@@ -141,7 +141,7 @@ npx wrangler deploy
 npm run dev
 ```
 
-> **Note**: 首次运行时，需执行 `npm run db:init` (在 package.json 中定义) 或手动执行 `--local` 的 D1 初始化命令。
+> **Note**: 首次运行时，需执行 `npm run db:init` (在 package.json 中定义) 或手动执行 `--local` 的 D1 初始化命令。 
 
 ---
 
